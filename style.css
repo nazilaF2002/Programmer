@@ -1,0 +1,125 @@
+.topcontainer{
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+}
+body{
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather Sans',sans-serif;
+    font-size: 1rem;
+}
+.profile{
+    border-radius: 50%;
+    margin-top: 1%;
+}
+
+.cloud1{
+position: absolute;
+right: 200px;
+top: 50px;
+}
+.cloud2{
+    position: absolute;
+ left: 200px;
+ bottom: 300px;
+}
+h1{
+ color: #66bfbf;
+font-family: 'Sacramento',cursive;
+font-size: 90px;    
+line-height: 2;
+}
+.h2{
+    font-size: 2rem;
+}
+h2{
+    color: #66bfbf;
+    font-family: 'montserat',sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+hr{
+    width: 130px;
+    text-align: center;
+    border-top: 10px dotted #eaf6f6;
+    border-bottom: none;
+
+}
+h3{
+    color: #11999e; 
+    font-family: 'montserat',sans-serif;
+      
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.pc-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.pepper-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.bottom-container{
+    background-color:#66bfbf ;
+    margin-top: 2%;
+}
+a{
+    color: #11999e;}
+  
+ul{
+    list-style-type: none;
+   
+}
+ul>li{
+    display: inline-block;
+    padding: 30px;
+    padding-top: 50px;
+   
+}
+.paragraph{
+    color: #eaf6f6;
+    padding-bottom: 40px;
+}
+
+.btn{
+    background-color: dodgerblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    font-family: serif;
+    box-shadow: rgb(4, 112, 235) 2px 2px 2px 2px;
+    transition: all .4s ease-in-out;
+   
+}
+.btn:hover{
+background-color: #11cdd4;
+border-radius: 50px;
+box-shadow: inset 2px 5px 10px rgb(3, 75, 80),2px 5px 10px rgb(3, 75, 80) ;
+}
+.last_p{
+    margin-bottom: 5%;
+}
+.footer-link{
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+    transition: all .4s ease-in-out;
+}
+.footer-link:hover{
+    padding: 10px 20px;
+    border: 2px solid rgb(3, 75, 80);
+    border-radius: 50px;
+    box-shadow: inset 2px 5px 10px rgb(3, 75, 80);
+}
+
